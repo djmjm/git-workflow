@@ -1,2 +1,5 @@
-# git-workflow
-Estudo de boas práticas utilizando controle de versão.
+# 🔨 git-workflow
+
+## 📋Estudo de boas práticas utilizando controle de versão.
+
+# ✨Em construção ...
