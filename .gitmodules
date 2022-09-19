@@ -1,0 +1,3 @@
+[submodule "git-workflow-submodule"]
+	path = git-workflow-submodule
+	url = https://github.com/djmjm/git-workflow-submodule
